@@ -52,6 +52,15 @@ Open http://localhost:8501.
 
 The application works in demo mode without an API key. For the full LLM agent, place your key in `.env` as `OPENAI_API_KEY=...`.
 
+## Application Screenshots
+
+Include screenshots here to showcase the interface and features of the application, such as:
+- Employee data management
+![Adding employees](img/form.png)
+- Team formation suggestions
+![Team formation](img/assistant.png)
+
+
 ## Test Prompts
 - Show employees with Python skills.
 - Build a team for a Python machine-learning project.
@@ -80,3 +89,16 @@ The system does not autonomously make hiring, firing, disciplinary, promotion, o
 5. Ask an HR-policy question.
 6. Show HR analytics and the agent execution trace.
 7. Explain safety/human approval and deployment.
+
+
+
+
+---
+
+
+
+
+---
+
+
+
